@@ -1,0 +1,11 @@
+{
+  "domain": "apsystems_openapi",
+  "name": "APsystems OpenAPI",
+  "version": "1.0.0",
+  "documentation": "https://github.com",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
